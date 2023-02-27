@@ -1,0 +1,19 @@
+{
+    "name": "com.daka-0424.seed-loader",
+    "version":"0.1.0",
+    "displayName": "SeedLoader",
+    "description": "This is a Seed Loader",
+    "author": "Daka-0424",
+    "unity":"2021.3",
+    "keywords": [
+        "unity"
+    ],
+    "homepage": "https://github.com/Daka-0424/SeedLoader#readme",
+    "repository": {
+        "type":"git",
+        "url":"https://github.com/Daka-0424/SeedLoader"
+    },
+    "dependencies": {
+        "com.daka-0424.custom-addressables":"https://github.com/Daka-0424/CustomAddressables.git"
+    }
+}
